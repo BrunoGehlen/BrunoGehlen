@@ -1,6 +1,6 @@
 <h1 align="center">Greetings! I'm Bruno Gehlen. 👋</h1>
 
-### Welcome to my Github's page! I'm 24, Brazilian Software Developer!
+### Welcome to my Github's page!
 **Whatsapp**: +55 (44) 9 9967-7758 <br/>
 **E-mail**: tousepc@gmail.com
 
